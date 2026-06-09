@@ -56,3 +56,7 @@ testing the changes
 int webhookVerificationValue() {
   return 42;
 }
+
+int anotherWebhookPollingMarker() {
+  return 99;
+}
