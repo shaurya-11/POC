@@ -50,4 +50,4 @@ int main() {
   std::cout << cache.get("one") << "\n";
   std::cout << cache.get("three") << "\n";
 }
-some random gibberish
+some random gibberish to test the cache eviction policy.
